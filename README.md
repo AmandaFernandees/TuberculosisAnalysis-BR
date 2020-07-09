@@ -6,6 +6,7 @@ Alunas:
 - Amanda Fernandes
 - Janaina Marinho
 
+
 Disclaimer/Aviso Legal: Este notebook tem um fim única e exclusivamente didático. 
 Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações
 
