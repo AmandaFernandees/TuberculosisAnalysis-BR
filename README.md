@@ -9,7 +9,8 @@ Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por
 - Casos de Tuberculose por Estado
 - Casos de Tuberculose por faixa etária
 
-Os dados desta análise estão presentes em https://datasus.saude.gov.br/
+### Origem dos Dados: 
+https://datasus.saude.gov.br/
 
 ### 1º Semestre ADS - Turma B
 
